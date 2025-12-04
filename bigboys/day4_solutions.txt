@@ -1,0 +1,4 @@
+bigboy #4
+grid:   3333 x 3333
+silver: 2023510
+gold:   5520583
